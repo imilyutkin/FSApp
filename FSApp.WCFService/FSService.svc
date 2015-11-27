@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="FSApp.WCFService.FSService" CodeBehind="FSService.svc.cs" %>
